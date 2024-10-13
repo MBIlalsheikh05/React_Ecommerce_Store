@@ -1,6 +1,6 @@
 import React from 'react'
 import ManCategory from '../assets/Images/man.jpeg'
-import WomenCategory from '../assets/Images/Women.jpg'
+import WomenCategory from '../assets/Images/women.jpg'
 import KidCategory from '../assets/Images/kid.jpg'
 
 const CategorySection = () => {
