@@ -46,7 +46,7 @@ const Footer = () => {
       </div>
       <div className='mt-8 border-t border-r-gray-700 pt-4'>
         <div className='conatiner mx-auto flex flex-col md:flex-row justify-between items-center'>
-          <p>&copy; 2024 e-Shop|Taha Shaikh | All rights reserved.</p>
+          <p>&copy; 2024 e-Shop|Bilal Sheikh | All rights reserved.</p>
           <div className='flex space-x-4 mt-4 md:mt-0'>
             <a href='' className='hover:underline'>Privacy Policy</a>
             <a href='' className='hover:underline'>Terms & Conditions</a>
