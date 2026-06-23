@@ -29,7 +29,7 @@ const Contact = () => {
         <div className="bg-white shadow-md rounded-lg p-8">
           <h2 className="text-2xl font-semibold text-gray-800 mb-6">Our Contact Information</h2>
           <p className="text-gray-600 mb-4">
-            Phone: +92-3223329946
+            Phone: +92-3258455701
           </p>
           <p className="text-gray-600 mb-8">
             Email: e-shop11@gmail.com
